@@ -1,0 +1,45 @@
+body {
+  background-image: url('../imagem/fundo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+
+}
+.imagem-canto {
+  position: fixed;
+  top: 400px;
+  right: 400px;
+  width: 300px;
+  z-index: 1000;
+}
+.mensagem {
+  color: yellow;              /* cor do texto */
+  font-size: 18px;            /* tamanho da fonte */
+  font-family: Arial, sans-serif;  /* tipo de letra */
+  text-align: match-parent;         /* centraliza o texto */
+
+  padding: 10px;              /* espaço interno */
+  border-radius: 10px;        /* cantos arredondados */
+}
+.amor{
+color: brown;
+}
+img {
+  border-radius: 10px;
+  border: 3px solid #3399ff;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+
+h1 {
+  color: #0c0004;
+}
+
+audio {
+  margin-top: 20px;
+}
