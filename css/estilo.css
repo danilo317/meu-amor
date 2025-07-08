@@ -12,9 +12,9 @@ body {
 }
 .imagem-canto {
   position: fixed;
-  top: 600px;
+  top: 800px;
   right: 400px;
-  width: 300px;
+  width: 400px;
   z-index: 1000;
 }
 .mensagem {
