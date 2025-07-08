@@ -18,7 +18,7 @@ body {
   z-index: 1000;
 }
 .mensagem {
-  color: green;              /* cor do texto */
+  color: yellow;              /* cor do texto */
   font-size: 18px;            /* tamanho da fonte */
   font-family: Arial, sans-serif;  /* tipo de letra */
   text-align: match-parent;         /* centraliza o texto */
